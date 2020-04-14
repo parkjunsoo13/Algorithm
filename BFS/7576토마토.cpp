@@ -1,6 +1,9 @@
 #include <iostream>
 #include <vector>
 #include <queue>
+/*
+	7576 - BFS - �丶��
+*/
 using namespace std;
 int N, M;
 int arr[1000][1000];
