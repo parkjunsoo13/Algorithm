@@ -3,6 +3,8 @@
 #include <queue>
 /*
 	7576 - BFS - �丶��
+	7576 - BFS - �丶��
+	https://www.acmicpc.net/problem/7576
 */
 using namespace std;
 int N, M;
